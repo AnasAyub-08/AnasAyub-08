@@ -7,7 +7,7 @@
 
 
 ## 🚀 My Skills
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** Python, JavaScript(Basic level)
 - **Web Development:** Django, HTML, CSS
 - **Tools & Platforms:** Git, VS Code
 - **Other Interests:** Data Structures, Algorithms, and AI in general
